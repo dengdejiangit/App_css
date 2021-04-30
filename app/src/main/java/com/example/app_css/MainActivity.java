@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.i("TAG", "onCreate: "+"这是最初");
+        Log.i("TAG", "onCreate: "+"哈哈哈 创建子分支，然后修改了");
 
     }
 }
